@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, green, yellow, red);    
+}
+
+.barra{
+   display: inline;
+   
+    padding-inline: 10px;
+    border-width: 100% ;
+    border-color: black;
+    height: 40px;    
+    background-color: black;
+    position: sticky;
+    top: 0px;
+
+    font-family:cursive;
+}
+
+#voltar{
+    position: relative;
+    height: 20px;
+    right: 350px;
+    
+}
+
+#Jackson{
+    position: relative;
+    height: 20px;
+    right: 190px;
+}
+
+#Nw{
+    position: relative;
+    height: 20px;
+    right: 50px;
+}
+
+#Beatles{
+    position: relative;
+    height: 20px;
+    left: 70px;
+}
+
+#racionais{
+    position: relative;
+    height: 20px;
+    left: 200px;
+}
+
+#sobre{
+    position: relative;
+    height: 20px;
+    left: 350px;
+    
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}

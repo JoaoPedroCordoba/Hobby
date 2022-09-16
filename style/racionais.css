@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+}
+
+.barra{
+    display: block;
+    
+     box-sizing: border-box;
+     width: 100%;
+     height: 40px;    
+     padding: 9px;
+     border: 100px;
+ 
+         color: white;
+         background-color: black;
+         position: sticky;
+         top: 0px;
+ 
+     font-family:cursive;
+ }
+ 
+ #voltar{
+     position: relative;
+     height: 20px;
+     right: 350px;
+     
+ }
+ 
+ #Jackson{
+     position: relative;
+     height: 20px;
+     right: 190px;
+ }
+ 
+ #Nw{
+     position: relative;
+     height: 20px;
+     right: 50px;
+ }
+ 
+ #Beatles{
+     position: relative;
+     height: 20px;
+     left: 70px;
+ }
+ 
+ #Bob{
+     position: relative;
+     height: 20px;
+     left: 200px;
+ }
+ 
+ #sobre{
+     position: relative;
+     height: 20px;
+     left: 350px;
+     
+ }
+ 
