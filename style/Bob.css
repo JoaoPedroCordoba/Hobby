@@ -4,20 +4,22 @@ body{
 }
 
 .barra{
-   display: inline;
-   
-    padding-inline: 10px;
+    margin: 0px;
+    min-width: 300px;
+    border: solid 20px;
     border-width: 100% ;
     border-color: black;
-    height: 40px;    
+    height: px;    
     background-color: black;
     position: sticky;
     top: 0px;
+    
 
     font-family:cursive;
 }
 
 #voltar{
+    display: inline;
     position: relative;
     height: 20px;
     right: 350px;
@@ -25,30 +27,36 @@ body{
 }
 
 #Jackson{
+    display: inline;
     position: relative;
     height: 20px;
     right: 190px;
 }
 
 #Nw{
+    display: inline;
     position: relative;
     height: 20px;
     right: 50px;
 }
 
 #Beatles{
+    display: inline;
     position: relative;
     height: 20px;
     left: 70px;
 }
 
 #racionais{
+    display: inline;
     position: relative;
     height: 20px;
     left: 200px;
 }
 
 #sobre{
+    
+    display: inline;
     position: relative;
     height: 20px;
     left: 350px;
