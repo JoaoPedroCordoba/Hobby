@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(39, 53, 53);
+    border: solid black;
+
+}
+
+.titulo{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+h3{
+    text-align: center;
+}
+
+span{
+    text-align: center;
+    font-family:cursive;
+    position: relative;
+    
+
+    
+}
+
+#Bob{
+    position: relative;
+    left: 100px;
+
+}
+
+
+#Michael{
+    position: relative;
+    left:  320px;
+
+}
+
+#N{
+    position: relative;
+    left: 450px;
+}
+
+#Beatles{
+    position: relative;
+    left: 630px;
+}
+
+#racionais{
+    position: relative;
+    left: 800px;
+}
+
+h4{
+    color: #000;
+    text-align: end ;
+}
+
+#marley{
+    position: relative;
+    left: 20px;
+    top: 12px;
+    border: solid black 5px;
+}
