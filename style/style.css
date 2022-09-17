@@ -12,6 +12,7 @@ body{
 h2{
     text-align: center;
     color: rgb(255, 255, 255);
+    
 }
 
 h3{
@@ -41,17 +42,17 @@ span{
 
 #N{
     position: relative;
-    left: 450px;
+    left: 550px;
 }
 
 #Beatles{
     position: relative;
-    left: 630px;
+    left: 730px;
 }
 
 #racionais{
     position: relative;
-    left: 800px;
+    left: 900px;
 }
 
 h4{
@@ -67,4 +68,18 @@ h4{
     top: 12px;
     border: solid black 5px;
 
+}
+
+#michael{
+    position: relative;
+    left: 70px;
+    top: 12px;
+    border: solid black 5px;
+}
+
+#nwa{
+    position: relative;
+    left: 120px;
+    top: 12px;
+    border: solid black 5px;
 }
