@@ -1,6 +1,7 @@
 body{
     background-color: rgb(31, 36, 36);
     border: solid black;
+    max-width: 100%;
 
 }
 
@@ -36,31 +37,20 @@ span{
 
 #Michael{
     position: relative;
-    left:  320px;
+    left:  340px;
 
 }
 
 #N{
     position: relative;
-    left: 550px;
+    left: 570px;
 }
 
 #Beatles{
     position: relative;
-    left: 730px;
+    left: 840px;
 }
 
-#racionais{
-    position: relative;
-    left: 900px;
-}
-
-h4{
-    color: #000;
-    
-     height: 30px;
-     width: 900px;
-}
 
 #marley{
     position: relative;
@@ -72,14 +62,25 @@ h4{
 
 #michael{
     position: relative;
-    left: 70px;
+    left: 100px;
     top: 12px;
     border: solid black 5px;
 }
 
 #nwa{
     position: relative;
-    left: 120px;
-    top: 12px;
+    left: 175px;
+    top: 3px;
     border: solid black 5px;
+}
+
+#beatles{
+    position: relative;
+    left: 250px;
+    top: 9px;
+    border: solid black 5px;
+}
+
+.sobre{
+    text-align: center;
 }

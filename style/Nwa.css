@@ -1,59 +1,19 @@
 body{
     text-align: center;
+    background-color: rgb(2, 2, 16);
+    color: white;
 }
 
-.barra{
-    display: block;
-    
-     box-sizing: border-box;
-     width: 100%;
-     height: 40px;    
-     padding: 9px;
-     border: 100px;
- 
-         color: white;
-         background-color: black;
-         position: sticky;
-         top: 0px;
- 
-     font-family:cursive;
- }
- 
- #voltar{
-     position: relative;
-     height: 20px;
-     right: 350px;
-     
- }
- 
- #Jackson{
-     position: relative;
-     height: 20px;
-     right: 190px;
- }
- 
- #Bob{
-     position: relative;
-     height: 20px;
-     right: 50px;
- }
- 
- #Beatles{
-     position: relative;
-     height: 20px;
-     left: 70px;
- }
- 
- #racionais{
-     position: relative;
-     height: 20px;
-     left: 200px;
- }
- 
- #sobre{
-     position: relative;
-     height: 20px;
-     left: 350px;
-     
- }
+div{
+    font-size: large;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
  
